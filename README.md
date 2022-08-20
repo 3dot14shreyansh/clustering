@@ -23,5 +23,5 @@ Example - Hierarchical cluster analysis.
 - It detects the noise far more precisely then K-Means and Hierarchical Clustering. 
           ![clustering](image-resources/clustering(1.1).png)
 
-### Metrics for efficiency calculation of Clustering algorithum:
+### Performace Metrics for Clustering algorithum:
 
