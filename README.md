@@ -22,3 +22,6 @@ Example - Hierarchical cluster analysis.
 - K-Means and Hierarchical Clustering fails in creating clusters of arbitrary shapes. They are not able to form clusters based on varying densities. That’s why we need DBSCAN clustering.
 - It detects the noise far more precisely then K-Means and Hierarchical Clustering. 
           ![clustering](image-resources/clustering(1.1).png)
+
+### Metrics for efficiency calculation of Clustering algorithum:
+
