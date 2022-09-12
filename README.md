@@ -1,5 +1,5 @@
 # clustering
-Unlike supervised methods, clustering is an unsupervised method that works on datasets in which there is no outcome (target) variable nor is anything known about the relationship between the observations, that is, unlabeled data.<br>
+Unlike supervised methods, clustering is an unsupervised method that works on datasets in which there no no outcome (target) variable nor is anything known about the relationship between the observations, that is, unlabeled data.<br>
 Example - In shopping complex two T-shirts are placed near to each other even if they are not exactly same. This because if customer choose to buy a T-shirt he would go to the T-shirt section and not to dairy section. Therefore placing the other T-shirt in T-shirt section makes more sense.
 
 
